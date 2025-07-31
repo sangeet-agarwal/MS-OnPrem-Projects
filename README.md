@@ -51,7 +51,7 @@ Here's a list of on-premises projects currently documented and available in this
 
 ---
 
-## 🛠️ How Projects Are Documented
+## How Projects Are Documented
 
 Each project within this repository will typically follow a consistent structure to ensure clarity, reusability, and ease of understanding for anyone wishing to follow along or replicate the setup:
 
